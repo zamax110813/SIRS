@@ -40,7 +40,7 @@ cd avg
 
 for i in `seq 1 $simu_num`
 do
-    rm -f output$i.dat
+    rm -f ./data/output$i.dat
 done
 
 for i in `seq 1 $simu_num`
