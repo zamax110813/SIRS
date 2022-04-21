@@ -46,3 +46,255 @@ WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
 functions.o: functions.h
 main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
  functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h
+Complete_Graph.o: Complete_Graph.h Node.h Graph.h \
+ Obj.h Event.h functions.h
+Event_Generator.o: Event_Generator.h Obj.h Event.h \
+ Graph.h Node.h functions.h Scheduler.h
+Graph.o: Graph.h Node.h Obj.h Event.h functions.h
+Node.o: Node.h
+Scheduler.o: Scheduler.h Event.h Obj.h
+WS_Graph.o: WS_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h
+functions.o: functions.h
+main.o: Complete_Graph.h Node.h Graph.h Obj.h Event.h \
+ functions.h Scheduler.h Event_Generator.h

@@ -1,0 +1,5 @@
+OBJS = avg.o 
+
+a.out : $(OBJS)
+	g++ $(OBJS)
+
