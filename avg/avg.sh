@@ -34,12 +34,12 @@ cd avg
 
 ./make.sh
 
-for i in `seq 1 10`
+for i in `seq 1 500`
 do
     rm -f output$i.dat
 done
 
-for i in `seq 1 10`
+for i in `seq 1 500`
 do
     ../a.out $t $n $init_s $init_i $init_r $alpha $deltas $deltai $eta $k $p $graph $interval>>output.dat
     echo $i

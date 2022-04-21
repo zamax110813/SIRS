@@ -1,5 +1,1 @@
-OBJS = Complete_Graph.o Event_Generator.o Graph.o Node.o Scheduler.o WS_Graph.o functions.o main.o 
-
-a.out : $(OBJS)
-	g++ $(OBJS)
-
+OBJS = Complete_Graph.o Event_Generator.o Graph.o Node.o Scheduler.o WS_Graph.o functions.o main.o \n\na.out : $(OBJS)\n\tg++ $(OBJS)\n
