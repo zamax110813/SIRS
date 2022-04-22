@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /bin/bash
 
 echo -n "OBJS = " > objfiles
 ls *.cpp | tr '\n' ' ' | sed -e 's/cpp/o/g' >> objfiles

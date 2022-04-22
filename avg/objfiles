@@ -1,5 +1,1 @@
-OBJS = avg.o 
-
-a.out : $(OBJS)
-	g++ $(OBJS)
-
+OBJS = avg.o \n\na.out : $(OBJS)\n\tg++ $(OBJS)\n

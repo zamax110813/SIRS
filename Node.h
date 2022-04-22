@@ -11,6 +11,7 @@ class Node{
     STATE state;//ノードの状態
     int degree;//次数
     int adj_inf;//隣接する感染ノード数
+    int unko;
 public:
     Node();
     int get_degree(void);
