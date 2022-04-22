@@ -23,13 +23,13 @@ p=0.1
 init_s=999
 init_i=1
 init_r=0
-alpha=0.01
+alpha=0.005
 deltas=1
 deltai=0.1
 eta=0.05
 interval=0.001
 graph=0
-simu_num=1000
+simu_num=100
 outfile="avg.dat"
 
 cd ../
